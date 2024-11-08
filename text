@@ -1,0 +1,82 @@
+1. Arrays and Strings
+Reverse an array or string: Write a function to reverse an array or string in place.
+Find the maximum product of two integers in an array.
+Find the first non-repeating character in a string.
+Check if a string is a palindrome: Write a function to check if a string reads the same forwards and backwards.
+Rotate an array by k positions: Given an array, rotate it to the right by k positions.
+Find the missing number in an array of size n: Given an array of integers from 1 to n-1, find the missing number.
+2. Linked Lists
+Reverse a singly linked list.
+Detect a cycle in a linked list: Write an algorithm to detect if a linked list has a cycle.
+Find the middle element of a linked list: Find the middle element of a singly linked list.
+Merge two sorted linked lists: Merge two sorted linked lists into a single sorted list.
+Remove duplicates from a sorted/unsorted linked list.
+Intersection of two linked lists: Find the node at which two linked lists intersect.
+3. Stacks and Queues
+Implement a stack using queues.
+Implement a queue using stacks.
+Valid Parentheses: Check if a string containing parentheses is valid (balanced).
+Sort a stack: Write a function to sort a stack in ascending order.
+Implement a queue using two stacks.
+4. Trees and Graphs
+Binary Tree Traversals: Implement pre-order, in-order, and post-order traversal (both recursively and iteratively).
+Level-order traversal of a binary tree.
+Find the height of a binary tree.
+Check if a binary tree is balanced.
+Lowest Common Ancestor (LCA) of two nodes in a binary tree.
+Check if a binary tree is a BST.
+Find the diameter of a binary tree: The diameter is the longest path between any two nodes in a tree.
+Graph traversal (DFS and BFS): Write algorithms for Depth-First Search (DFS) and Breadth-First Search (BFS) in a graph.
+Detect a cycle in a directed/undirected graph.
+Topological Sort: Given a Directed Acyclic Graph (DAG), perform a topological sort.
+5. Dynamic Programming
+Fibonacci Sequence: Write an efficient function to calculate the nth Fibonacci number.
+Longest Common Subsequence (LCS): Given two strings, find the length of their longest common subsequence.
+0/1 Knapsack Problem: Given weights and values of items and a knapsack capacity, find the maximum value that can be accommodated in the knapsack.
+Longest Increasing Subsequence (LIS): Given an array of integers, find the length of the longest increasing subsequence.
+Coin Change Problem: Given an array of coins and a target amount, find the minimum number of coins needed to make up that amount.
+6. Recursion
+Factorial of a number.
+Tower of Hanoi: Solve the Tower of Hanoi puzzle using recursion.
+Generate all subsets of a set.
+Permutations and combinations: Generate all permutations/combinations of a string or array.
+Solve the N-Queens problem: Place N queens on an N×N chessboard such that no two queens threaten each other.
+7. Sorting and Searching
+Binary Search: Implement binary search on a sorted array.
+Merge Sort: Implement merge sort algorithm.
+Quick Sort: Implement quick sort algorithm.
+Find the kth largest element in an unsorted array.
+Search in a rotated sorted array: Given a rotated sorted array, find an element.
+Count inversions in an array: Count the number of inversions in an array (pairs of elements where a larger element appears before a smaller one).
+8. Hashing
+Two Sum: Given an array of integers and a target value, find two numbers that add up to the target.
+Group anagrams: Given a list of strings, group them into anagrams.
+Find all duplicates in an array: Given an array, find all elements that appear more than once.
+Subarray with sum 0: Given an array of integers, check if there exists a subarray whose sum is zero.
+Check if two strings are anagrams: Check if two strings are anagrams of each other.
+9. Greedy Algorithms
+Activity Selection Problem: Given a set of activities with start and end times, select the maximum number of activities that can be performed.
+Fractional Knapsack Problem: Solve the fractional knapsack problem using a greedy approach.
+Huffman Encoding: Given a set of characters and their frequencies, build a Huffman encoding tree.
+10. Bit Manipulation
+Check if a number is a power of two.
+Count the number of 1 bits in a number.
+Find the only non-repeating element in an array: Given an array where every element repeats twice except one, find the element that does not repeat.
+Reverse bits of a number: Given a number, reverse its bits.
+Find the Hamming distance between two integers.
+11. Mathematics and Number Theory
+Prime number check: Write an efficient function to check if a number is prime.
+Greatest Common Divisor (GCD): Implement Euclid’s algorithm to find the GCD of two numbers.
+Least Common Multiple (LCM): Calculate the LCM of two numbers.
+Sieve of Eratosthenes: Find all prime numbers up to a given number using the sieve of Eratosthenes.
+12. Advanced Topics
+Trie data structure: Implement a trie and perform operations like insert, delete, search, and prefix search.
+Segment Tree: Implement a segment tree for range queries.
+Fenwick Tree (Binary Indexed Tree): Implement a Fenwick Tree for efficient range queries.
+Disjoint Set (Union-Find): Implement the Union-Find data structure to solve problems like detecting cycles in a graph or finding connected components.
+General Tips for DSA Interviews:
+Understand the problem before coding: Spend a few minutes understanding the problem and discussing edge cases.
+Write clean, readable code: Ensure your code is easy to follow and logically structured.
+Optimize your solution: After solving the problem, check if there’s a more efficient solution in terms of time or space complexity.
+Practice coding problems: Platforms like LeetCode, HackerRank, and CodeSignal are great for practice.
+Communicate clearly: Explain your thought process, discuss edge cases, and justify your approach to the interviewer.
